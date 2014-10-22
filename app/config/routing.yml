@@ -1,0 +1,8 @@
+blogger_menu:
+    resource: "@BloggerMenuBundle/Resources/config/routing.yml"
+    prefix:   /
+
+blogger_gen:
+    resource: "@BloggerGenBundle/Resources/config/routing.yml"
+    prefix:   /
+

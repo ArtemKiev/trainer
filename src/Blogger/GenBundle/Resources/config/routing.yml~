@@ -1,0 +1,5 @@
+blogger_gen_homepage:
+    path:     /
+    defaults: { _controller: BloggerGenBundle:Default:index }
+    requirements:
+      _method: GET
