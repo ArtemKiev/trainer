@@ -1,5 +1,12 @@
 blogger_gen_homepage:
+<<<<<<< HEAD
     path:     /test/{name}
     defaults: { _controller: BloggerGenBundle:Default:index }
     requirements:
       _method: GET
+=======
+    path:     /
+    defaults: { _controller: BloggerGenBundle:Default:index }
+    requirements:
+      _method: GET
+>>>>>>> 187c66b7709525b773b1b0c18b9db5e6507c8389
