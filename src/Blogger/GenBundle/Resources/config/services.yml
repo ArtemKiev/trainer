@@ -1,0 +1,4 @@
+services:
+#    blogger_gen.example:
+#        class: Blogger\GenBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

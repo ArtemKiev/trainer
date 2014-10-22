@@ -1,0 +1,4 @@
+blogger_gen:
+    resource: "@BloggerGenBundle/Resources/config/routing.yml"
+    prefix:   /
+
