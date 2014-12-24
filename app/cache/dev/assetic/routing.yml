@@ -2,4 +2,4 @@ _assetic:
     resource: .
     type: assetic
 _app:
-    resource: /var/www/trainer/app/config/routing_dev.yml
+    resource: /var/www/sites/trainer.antibiotik.pp.ua/app/config/routing_dev.yml

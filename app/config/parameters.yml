@@ -3,9 +3,9 @@ parameters:
     database_driver: pdo_mysql
     database_host: localhost
     database_port: null
-    database_name: symfony
-    database_user: symfony
-    database_password: YI4rnZ9A81bv3N
+    database_name: trainer
+    database_user: trainer
+    database_password: cs4bBKrc3YJA4Uvz
     mailer_transport: smtp
     mailer_host: 127.0.0.1
     mailer_user: null
